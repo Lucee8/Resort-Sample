@@ -88,8 +88,8 @@ All customizations are inside `index.html`. Just find and replace:
 | What to change | Find this text | Replace with |
 |---|---|---|
 | Resort name | `Resort Name` | Client's resort name |
-| WhatsApp number | `919876543210` | Client's number (with country code, no +) |
-| Phone number | `+91 98765 43210` | Client's actual number |
+| WhatsApp number | `#` | Client's number (with country code, no +) |
+| Phone number | `#` | Client's actual number |
 | Email | `stay@resortname.com` | Client's email |
 | Location | `Devbag Beach Road, Tarkarli` | Client's address |
 | Room names | `Blissful Suite`, etc. | Client's room names |
